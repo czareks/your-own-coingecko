@@ -1,6 +1,7 @@
 This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
 ![Project Preview](./cryptoupdate.png)
+![Project Preview](./cryptoupdate3.png)
 ![Project Preview](./cryptoupdate2.png)
 
 ## Available Scripts
@@ -25,8 +26,3 @@ React-Chartjs-2: https://react-chartjs-2.js.org/examples/area-chart
 React-router-dom: https://reactrouter.com/docs/en/v6/getting-started/overview
 HeroIcons: https://heroicons.com/
 Moment: https://momentjs.com/
-
-
-### Video Tutorial
-
-You can see my youtube video for this project in [here](https://youtu.be/uiW4tArFLkE)
