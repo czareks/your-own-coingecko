@@ -57,7 +57,7 @@ wystąpiły żadne błędy. Jeśli masz problemy z instalacją lub
 uruchomieniem aplikacji, skonsultuj się z dokumentacją poszczególnych
 narzędzi, takich jak Node.js, yarn czy ViteJS.
 
-Architektura – DO SPRAWDZENIA + SCHEMAT BLOKOWY
+Architektura
 ===============================================
 
 Aplikacja została zbudowana zgodnie z architekturą komponentową,
@@ -107,7 +107,7 @@ komponentami.
 
 Poniżej przedstawiony jest schemat blokowy architektury aplikacji:
 
-Konfiguracja – DO SPRAWDZENIA PLIKI KONFIGURACYJNE
+Konfiguracja
 ==================================================
 
 Aby dostosować aplikację do swoich potrzeb, istnieje kilka plików
