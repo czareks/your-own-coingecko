@@ -105,8 +105,6 @@ aplikacji wykorzystano również narzędzie React-router-dom do obsługi
 routingu oraz kontekst (context) do przekazywania danych między
 komponentami.
 
-Poniżej przedstawiony jest schemat blokowy architektury aplikacji:
-
 Konfiguracja
 ==================================================
 
